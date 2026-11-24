@@ -1,0 +1,13 @@
+{
+  "timestamp_local": "2026-11-24 12:11:25 UTC+7",
+  "published_at_local": "2026-11-24 12:11:29 UTC+7",
+  "total_perps": 748,
+  "janus_regime": "PERP_MOMENTUM_EXPANSION_BULL",
+  "karpathy_action": "KARPATHY REVERT_TO_CHAMPION (Brier 0.3750 > 0.1411 | AvgR -0.06R)",
+  "top_setup": {
+    "symbol": "NVDAUSDT",
+    "direction": "MOMENTUM LONG",
+    "confidence": 75.9,
+    "best_leverage_x": 2.0
+  }
+}
